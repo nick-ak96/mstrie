@@ -1,0 +1,5 @@
+*.1 linguist-vendored
+*.2 linguist-vendored
+*.Po linguist-vendored
+*.m4 linguist-vendored
+Makefile linguist-vendored
