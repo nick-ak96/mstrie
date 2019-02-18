@@ -3,3 +3,9 @@
 *.Po linguist-vendored
 *.m4 linguist-vendored
 Makefile linguist-vendored
+*.status linguist-vendored
+configure linguist-vendored
+depcomp linguist-vendored
+install-sh linguist-vendored
+missing linguist-vendored
+
