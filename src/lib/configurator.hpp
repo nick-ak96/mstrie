@@ -18,6 +18,7 @@
 #include <vector>
 #include <exception>
 #include <fstream>
+#include <memory>
 
 #pragma GCC visibility push(default)
 
