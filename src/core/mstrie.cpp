@@ -11,7 +11,6 @@
 #include <string>
 #include <sstream>
 #include <vector>
-#include <chrono>
 #include <ctime>
 
 #include "mstrie.hpp"

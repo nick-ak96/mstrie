@@ -10,6 +10,8 @@
 #define MSTRIE_HPP
 
 #include <queue>
+#include <chrono>
+#include <memory>
 
 
 /* The class that holds statistics of the mstrie structure */
