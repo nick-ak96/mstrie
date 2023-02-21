@@ -1,6 +1,8 @@
 bin_PROGRAMS = mstrie
-AM_CXXFLAGS = -std=c++14 -Ilib
+AM_CXXFLAGS = -std=c++14
 mstrie_SOURCES = \
+    lib/configurator.cpp \
+    lib/configurator.hpp \
 	utils/file_utils.cpp \
     utils/file_utils.hpp \
 	core/mstrie.cpp \
@@ -12,4 +14,3 @@ mstrie_SOURCES = \
 	benchmark/benchmark.cpp \
     benchmark/benchmark.hpp \
 	main.cpp
-mstrie_LDADD=lib/libconfigurator.a

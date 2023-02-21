@@ -10,6 +10,7 @@
 #include <vector>
 #include <string>
 #include <exception>
+#include <chrono>
 #include "index_manager.hpp"
 #include "../utils/file_utils.hpp"
 
