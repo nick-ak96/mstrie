@@ -2,7 +2,7 @@
 //  configurator.hpp
 //  configurator
 //
-//  Created by Nikita Akulich on 27/01/2019.
+//  Created by Mikita Akulich on 27/01/2019.
 //  Copyright © 2019 Mikita Akulich. All rights reserved.
 //
 
