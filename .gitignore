@@ -16,6 +16,7 @@
 *.exe
 *.out
 *.app
+src/mstrie
 
 # XCode files
 Debug
@@ -26,3 +27,35 @@ mstrie.xcodeproj
 
 # Backup files
 *.swp
+
+# Autotools.gitignore
+
+# http://www.gnu.org/software/automake
+ar-lib
+mdate-sh
+py-compile
+test-driver
+ylwrap
+.deps/
+.dirstamp
+
+# http://www.gnu.org/software/autoconf
+autom4te.cache
+autoscan.log
+autoscan-*.log
+compile
+config.h
+config.cache
+config.guess
+config.log
+config.status
+config.sub
+configure~
+configure.scan
+stamp-h1
+
+# Generated Makefile
+# (meta build system like autotools,
+# can automatically generate from config.status script
+# (which is called by configure script))
+Makefile
