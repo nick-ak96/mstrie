@@ -44,6 +44,7 @@ autom4te.cache
 autoscan.log
 autoscan-*.log
 compile
+config.h
 config.cache
 config.guess
 config.log
