@@ -16,6 +16,7 @@
 *.exe
 *.out
 *.app
+src/mstrie
 
 # XCode files
 Debug
@@ -51,7 +52,7 @@ config.h.in
 config.log
 config.status
 config.sub
-configure
+configure~
 configure.scan
 depcomp
 install-sh
